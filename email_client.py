@@ -1,8 +1,3 @@
-'''
-FH Aachen
-Abschlussprojekt Informationstechnologie 1 WS18/19
-Fachbereich Wirtschaftwissenschaften
-'''
 
 from bs4 import BeautifulSoup
 import urllib.request
